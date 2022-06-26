@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GabrielRFOliveira
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analysis tools
